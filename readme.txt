@@ -2,3 +2,7 @@ Tutaj kazdy folder to podpunk zadania. Jezli da sie wykonac wiecej niz jeden pod
 
 pull request z watpliwoscia czy ala ma kota czy psa:
 https://github.com/JakubZieli/git-Skill/pull/1
+
+chrry pick:
+jest osobny branch przepisy ktory ma dodane dwa przepisy,
+cherry picknolem commita z dobrym ciastem, ktore bardzo polecam
