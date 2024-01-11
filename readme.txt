@@ -9,3 +9,6 @@ cherry picknolem commita z dobrym ciastem, ktore bardzo polecam
 
 rebase and squash:
 dodalem 5 linijek tekstu, kazda w osobnym comicie, no i zrobilem rebase ze squashem
+
+revert:
+ktos mi nadpisal ze ala ma psa i ze jestem gupi, wiec zrevertuje te zmiany!
