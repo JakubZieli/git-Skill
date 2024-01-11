@@ -6,3 +6,6 @@ https://github.com/JakubZieli/git-Skill/pull/1
 chrry pick:
 jest osobny branch przepisy ktory ma dodane dwa przepisy,
 cherry picknolem commita z dobrym ciastem, ktore bardzo polecam
+
+rebase and squash:
+dodalem 5 linijek tekstu, kazda w osobnym comicie, no i zrobilem rebase ze squashem
